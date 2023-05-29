@@ -1,0 +1,11 @@
+# Misc
+.idea/*
+.htaccess
+.htpasswd
+robots.txt
+*.log
+*.txt
+
+# App
+application/config/db.php
+
